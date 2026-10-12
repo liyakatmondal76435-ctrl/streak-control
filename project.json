@@ -1,0 +1,21 @@
+{
+  "overview": "A private habit and streak tracker with a live clean-streak timer, history and milestones, and an SOS urge-breaker screen.",
+  "features": [
+    "Live clean-streak timer in days, hours, minutes and seconds",
+    "Relapse/Reset with a confirmation dialog and automatic history logging",
+    "Daily check-in button",
+    "Total clean days, milestone badges and streak history with trigger tags",
+    "SOS urge-breaker with a guided breathing animation, motivational quotes and coping tips",
+    "Three-tab bottom navigation: Dashboard, Stats, SOS",
+    "Private per-user data with dark mode support"
+  ],
+  "category": "habit-tracker",
+  "tags": [
+    "habit-tracker",
+    "streak",
+    "self-control",
+    "privacy",
+    "wellness"
+  ],
+  "last_updated": "2026-10-11T20:26:58.816Z"
+}
